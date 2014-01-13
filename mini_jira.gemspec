@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = MiniJira::VERSION
   spec.authors       = ["Carlos Rodriguez"]
   spec.email         = ["carlos@eddorre.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Small Ruby Gem to work with JIRA's API.}
+  spec.description   = %q{Small Ruby Gem to work with JIRA's API.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
